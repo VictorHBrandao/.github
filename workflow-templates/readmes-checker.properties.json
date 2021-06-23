@@ -1,0 +1,8 @@
+{
+    "name": "Readmes Checker",
+    "description": "A simple Python script checking the presence of a `README.md` file inside every challenge directory.",
+    "iconName": "readme",
+    "categories": [
+        "Python"
+    ]
+}
