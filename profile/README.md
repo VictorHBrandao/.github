@@ -1,4 +1,4 @@
-## Hello threre :wave:
+## Hello :wave:
 
 [Le Wagon](https://www.lewagon.com) is an international coding school specialised in immersive bootcamps. Le Wagon teaches people the skills they need to change their lives, kick-start their tech career or launch their own startup. 
 
