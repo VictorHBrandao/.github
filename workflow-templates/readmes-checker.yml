@@ -2,7 +2,7 @@ name: Readmes Checker
 on:
   push:
     branches:
-      - master
+      - $default-branch
   pull_request:
     types: [synchronize, opened]
 jobs:
