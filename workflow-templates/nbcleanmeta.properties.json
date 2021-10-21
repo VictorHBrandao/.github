@@ -1,0 +1,10 @@
+{
+  "name": "nbcleanmeta",
+  "description": "A jupyter notebooks metadata cleaner.",
+  "iconName": "nbcleanmeta",
+  "categories": [
+      "Python",
+      "jupyter",
+      "notebooks"
+  ]
+}
