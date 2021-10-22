@@ -79,3 +79,5 @@ A mate has joined (88.160.245.54) -- 1 client currently connected
 ``` bash
 exit
 ```
+
+![tmate screenshot](images/tmate.png)
