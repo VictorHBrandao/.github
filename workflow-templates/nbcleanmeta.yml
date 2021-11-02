@@ -1,7 +1,5 @@
 name: Clean notebooks metadata
 on:
-  push:
-    branches: $default-branch
   pull_request:
     types: [synchronize, opened]
 jobs:
