@@ -1,8 +1,5 @@
 name: Readmes Checker
 on:
-  push:
-    branches:
-      - $default-branch
   pull_request:
     types: [synchronize, opened]
 jobs:
