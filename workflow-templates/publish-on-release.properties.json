@@ -1,0 +1,8 @@
+{
+  "name": "Build And Publish Package",
+  "description": "An action to build a package when a release is created, and publish it to the Le Wagon Gemfury account.",
+  "iconName": "publish-on-release",
+  "categories": [
+      "Python"
+  ]
+}
