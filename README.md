@@ -2,7 +2,8 @@
 
 ## Available templates
 
-- [`nbcleanmeta`](/workflow-templates/nbcleanmeta.yml), a metadata cleaner for notebooks
+- [`clean-metadata`](/workflow-templates/clean-metadata.yml), a metadata cleaner for notebooks
+- [`publish-on-release`](/workflow-templates/publish-on-release.yml), a package publisher for [Gemfury](https://gemfury.com/)
 - [`readmes-checker`](/workflow-templates/readmes-checker.yml), a [check](https://docs.github.com/en/rest/reference/checks) for presence of `README.md` file in challenges directories
 
 ## Debugging a GHA
